@@ -1,8 +1,8 @@
 # Technical-Document
 Tech doc test
 
-##Second heading
+## Second heading
 
-*First
-*Second
-*Third
+* First
+* Second
+* Third
